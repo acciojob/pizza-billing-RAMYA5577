@@ -4,10 +4,8 @@ public class Pizza {
 
     private int price;  //final price
     private int basePrice;
-
     private boolean isVeg;
     private String bill;
-
     private boolean isCheeseAdded;
     private boolean isExtraTopping;
     private boolean isTakeAway;
