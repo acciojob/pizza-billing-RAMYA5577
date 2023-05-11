@@ -1,14 +1,15 @@
 package com.driver;
 
 public class Main {
+
   public static void main(String[] args) {
     DeluxePizza dp = new DeluxePizza(true);
 
     System.out.println(dp.getPrice());
 
-    dp.addTakeaway();
+    dp.addTakeAway();
     dp.addExtraCheese();
-    dp.addTakeaway();
+    dp.addTakeAway();
     System.out.println(dp.getBill());
 
     Pizza p = new Pizza(false);
