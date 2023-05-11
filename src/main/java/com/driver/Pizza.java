@@ -61,7 +61,7 @@ public class Pizza {
         }
     }
 
-    public void addTakeAway(){
+    public void addTakeaway(){
         // your code goes here
         if (!isTakeAway) {
             isTakeAway = true;
