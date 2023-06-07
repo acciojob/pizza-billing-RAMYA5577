@@ -39,7 +39,7 @@ public class Pizza {
             this.price = 400;
             this.extraToppingPrice = 120;
         }
-        this.bill = "Base Price of the Pizza: " + this.price + "\n";
+        this.bill = "Base Price Of The Pizza: " + this.price + "\n";
 
 //        this.isVeg = isVeg;
 //        this.bill=bill;
